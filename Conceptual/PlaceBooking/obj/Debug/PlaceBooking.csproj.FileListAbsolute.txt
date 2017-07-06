@@ -1,0 +1,7 @@
+C:\Users\jasongorman\Documents\Visual Studio 2013\Projects\Conceptual\PlaceBooking\bin\Debug\PlaceBooking.dll
+C:\Users\jasongorman\Documents\Visual Studio 2013\Projects\Conceptual\PlaceBooking\bin\Debug\PlaceBooking.pdb
+C:\Users\jasongorman\Documents\Visual Studio 2013\Projects\Conceptual\PlaceBooking\bin\Debug\nunit.framework.dll
+C:\Users\jasongorman\Documents\Visual Studio 2013\Projects\Conceptual\PlaceBooking\bin\Debug\nunit.framework.xml
+C:\Users\jasongorman\Documents\Visual Studio 2013\Projects\Conceptual\PlaceBooking\obj\Debug\PlaceBooking.csprojResolveAssemblyReference.cache
+C:\Users\jasongorman\Documents\Visual Studio 2013\Projects\Conceptual\PlaceBooking\obj\Debug\PlaceBooking.dll
+C:\Users\jasongorman\Documents\Visual Studio 2013\Projects\Conceptual\PlaceBooking\obj\Debug\PlaceBooking.pdb

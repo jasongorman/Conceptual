@@ -1,0 +1,14 @@
+C:\Users\jasongorman\documents\visual studio 2013\Projects\Conceptual\Conceptual.Tests\bin\Debug\Conceptual.Tests.dll
+C:\Users\jasongorman\documents\visual studio 2013\Projects\Conceptual\Conceptual.Tests\bin\Debug\Conceptual.Tests.pdb
+C:\Users\jasongorman\documents\visual studio 2013\Projects\Conceptual\Conceptual.Tests\bin\Debug\Conceptual.exe
+C:\Users\jasongorman\documents\visual studio 2013\Projects\Conceptual\Conceptual.Tests\bin\Debug\nunit.framework.dll
+C:\Users\jasongorman\documents\visual studio 2013\Projects\Conceptual\Conceptual.Tests\bin\Debug\Mono.Cecil.dll
+C:\Users\jasongorman\documents\visual studio 2013\Projects\Conceptual\Conceptual.Tests\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\jasongorman\documents\visual studio 2013\Projects\Conceptual\Conceptual.Tests\bin\Debug\Conceptual.pdb
+C:\Users\jasongorman\documents\visual studio 2013\Projects\Conceptual\Conceptual.Tests\bin\Debug\nunit.framework.xml
+C:\Users\jasongorman\documents\visual studio 2013\Projects\Conceptual\Conceptual.Tests\obj\Debug\Conceptual.Tests.csprojResolveAssemblyReference.cache
+C:\Users\jasongorman\documents\visual studio 2013\Projects\Conceptual\Conceptual.Tests\obj\Debug\Conceptual.Tests.dll
+C:\Users\jasongorman\documents\visual studio 2013\Projects\Conceptual\Conceptual.Tests\obj\Debug\Conceptual.Tests.pdb
+C:\Users\jasongorman\documents\visual studio 2013\Projects\Conceptual\Conceptual.Tests\bin\Debug\LemmaSharp.dll
+C:\Users\jasongorman\documents\visual studio 2013\Projects\Conceptual\Conceptual.Tests\bin\Debug\full7z-mlteast-en.lem
+C:\Users\jasongorman\documents\visual studio 2013\Projects\Conceptual\Conceptual.Tests\bin\Debug\testtext.txt

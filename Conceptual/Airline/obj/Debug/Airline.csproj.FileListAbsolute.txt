@@ -1,0 +1,7 @@
+C:\Users\jasongorman\documents\visual studio 2013\Projects\Conceptual\Airline\bin\Debug\Airline.dll
+C:\Users\jasongorman\documents\visual studio 2013\Projects\Conceptual\Airline\bin\Debug\Airline.pdb
+C:\Users\jasongorman\documents\visual studio 2013\Projects\Conceptual\Airline\bin\Debug\nunit.framework.dll
+C:\Users\jasongorman\documents\visual studio 2013\Projects\Conceptual\Airline\bin\Debug\nunit.framework.xml
+C:\Users\jasongorman\documents\visual studio 2013\Projects\Conceptual\Airline\obj\Debug\Airline.dll
+C:\Users\jasongorman\documents\visual studio 2013\Projects\Conceptual\Airline\obj\Debug\Airline.pdb
+C:\Users\jasongorman\Documents\Visual Studio 2013\Projects\Conceptual\Airline\obj\Debug\Airline.csprojResolveAssemblyReference.cache

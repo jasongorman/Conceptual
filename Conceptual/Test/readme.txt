@@ -1,0 +1,1 @@
+﻿This is a project to generate a Test.ddl assembly and .pdb file (when built for debug) which are always copied to the bin/debug folder of the Conceptual.Tests project

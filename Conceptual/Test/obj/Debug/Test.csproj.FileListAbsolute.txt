@@ -1,0 +1,7 @@
+C:\Users\jasongorman\documents\visual studio 2013\Projects\Conceptual\Conceptual.Tests\Test.dll
+C:\Users\jasongorman\documents\visual studio 2013\Projects\Conceptual\Conceptual.Tests\Test.pdb
+C:\Users\jasongorman\documents\visual studio 2013\Projects\Conceptual\Test\obj\Debug\Test.dll
+C:\Users\jasongorman\documents\visual studio 2013\Projects\Conceptual\Test\obj\Debug\Test.pdb
+C:\Users\jasongorman\Documents\Visual Studio 2013\Projects\Conceptual\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\jasongorman\documents\visual studio 2013\Projects\Conceptual\Conceptual.Tests\bin\Debug\Test.dll
+C:\Users\jasongorman\documents\visual studio 2013\Projects\Conceptual\Conceptual.Tests\bin\Debug\Test.pdb

@@ -1,0 +1,1 @@
+The passenger selects the flight they want to reserve a seat on. They choose the seat by row and seat number (e.g., row A, seat 1) and reserve it. We create a reservation for that passenger in that seat.
